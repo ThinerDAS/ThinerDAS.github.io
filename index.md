@@ -1,3 +1,9 @@
+# Hello everyone
+
+I am ThinerDAS, a magic tower lover and a hacking apprentice.
+
+I have been playing CTF since my freshman year (2015). I am interested in methods to improve the CTF skill of myself and my team , [Never Stop Exploiting](https://ctftime.org/team/13575).
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ThinerDAS/ThinerDAS.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
