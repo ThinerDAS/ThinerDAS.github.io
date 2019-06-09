@@ -2,42 +2,18 @@
 
 I am ThinerDAS, a magic tower lover and a hacking apprentice.
 
-I have been playing CTF since my freshman year (2015). I am interested in methods to improve the CTF skill of myself and my team , [Never Stop Exploiting](https://ctftime.org/team/13575).
+I have been playing CTF since my freshman year (2015). I am interested in methods to improve the CTF skill of myself and my team, [Never Stop Exploiting](https://ctftime.org/team/13575).
 
-## Welcome to GitHub Pages
+## Git repositories
 
-You can use the [editor on GitHub](https://github.com/ThinerDAS/ThinerDAS.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+See my writeups [here](https://github.com/ThinerDAS/writeup).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+See my grasp on OISC [here](https://github.com/ThinerDAS/subl).
 
-### Markdown
+See my old thought on magic tower AI [here](https://github.com/ThinerDAS/dasstudio2016).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+New CTF player who finds writing CTF problems hard may try [this](https://github.com/ThinerDAS/what-is-ctf).
 
-```markdown
-Syntax highlighted code block
+## Challenge for relaxation
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ThinerDAS/ThinerDAS.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Some little easter eggs [here](challenge/)
